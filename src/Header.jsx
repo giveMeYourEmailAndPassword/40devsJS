@@ -91,6 +91,8 @@ const Header = () => {
                         </div>
                     </div>
 
+                    <div></div>
+
                     <div style={{ backgroundColor: 'rgba(249, 249, 249, 0.8)' }} className="flex p-8 border-2 border-[#E7E7E7] rounded-3xl">
                         <div><img src="public/comany1.svg" alt="company" /></div>
                         <div className="flex gap-14 mx-6">
