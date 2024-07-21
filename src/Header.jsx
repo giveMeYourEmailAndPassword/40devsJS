@@ -7,7 +7,7 @@ const Header = () => {
             <header className="p-4 bg-white shadow-lg fixed top-0 left-0 w-full z-50">
                 <div className="flex justify-between container mx-auto">
                     <div className="flex items-center gap-5">
-                        <img className="mb-2" src="public/logo.svg" alt="logo" />
+                        <img className="mb-2" src="/logo.svg" alt="logo" />
                         <a href="#">Вакансии</a>
                         <a href="#">FAQ</a>
                         <a href="#">Контакты</a>
@@ -45,7 +45,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div>
-                    <img className="w-[652px]" src="public/40devs1.png" alt="girl" />
+                    <img className="w-[652px]" src="/40devs1.png" alt="girl" />
                 </div>
             </div>
 
@@ -58,13 +58,13 @@ const Header = () => {
 
                 <div className="flex flex-col gap-6 mt-14  items-center justify-center">
                     <div style={{ backgroundColor: 'rgba(249, 249, 249, 0.8)' }} className="flex p-8 border-2 border-[#E7E7E7] rounded-3xl">
-                        <div><img src="public/comany1.svg" alt="company" /></div>
+                        <div><img src="/comany1.svg" alt="company" /></div>
                         <div className="flex gap-14 mx-6">
                             <div className="flex flex-col">
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">КОМПАНИЯ</h3>
                                 <p className="font-normal text-lg">Fortylines IO</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-locatioin.svg" alt="locatioin" />
+                                    <img src="/40devs-locatioin.svg" alt="locatioin" />
                                     <p className="text-[#C2C2C2]">Кыргызстан, Бишкек</p>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ДОЛЖНОСТЬ</h3>
                                 <p className="font-normal text-lg">Менеджер по продажам</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Информационный технологии</p>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ОКЛАД</h3>
                                 <p className="font-normal text-lg">50 000 Сом</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Полная занятость</p>
                                 </div>
                             </div>
@@ -92,13 +92,13 @@ const Header = () => {
                     </div>
 
                     <div style={{ backgroundColor: 'rgba(249, 249, 249, 0.8)' }} className="flex p-8 border-2 border-[#E7E7E7] rounded-3xl">
-                        <div><img src="public/comany1.svg" alt="company" /></div>
+                        <div><img src="/comany1.svg" alt="company" /></div>
                         <div className="flex gap-14 mx-6">
                             <div className="flex flex-col">
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">КОМПАНИЯ</h3>
                                 <p className="font-normal text-lg">Fortylines IO</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-locatioin.svg" alt="locatioin" />
+                                    <img src="/40devs-locatioin.svg" alt="locatioin" />
                                     <p className="text-[#C2C2C2]">Кыргызстан, Бишкек</p>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ДОЛЖНОСТЬ</h3>
                                 <p className="font-normal text-lg">Менеджер по продажам</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Информационный технологии</p>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ОКЛАД</h3>
                                 <p className="font-normal text-lg">50 000 Сом</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Полная занятость</p>
                                 </div>
                             </div>
@@ -126,13 +126,13 @@ const Header = () => {
                     </div>
 
                     <div style={{ backgroundColor: 'rgba(249, 249, 249, 0.8)' }} className="flex p-8 border-2 border-[#E7E7E7] rounded-3xl">
-                        <div><img src="public/comany1.svg" alt="company" /></div>
+                        <div><img src="/comany1.svg" alt="company" /></div>
                         <div className="flex gap-14 mx-6">
                             <div className="flex flex-col">
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">КОМПАНИЯ</h3>
                                 <p className="font-normal text-lg">Fortylines IO</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-locatioin.svg" alt="locatioin" />
+                                    <img src="/40devs-locatioin.svg" alt="locatioin" />
                                     <p className="text-[#C2C2C2]">Кыргызстан, Бишкек</p>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ДОЛЖНОСТЬ</h3>
                                 <p className="font-normal text-lg">Менеджер по продажам</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Информационный технологии</p>
                                 </div>
                             </div>
@@ -148,7 +148,7 @@ const Header = () => {
                                 <h3 className="font-medium text-[#C2C2C2] text-sm">ОКЛАД</h3>
                                 <p className="font-normal text-lg">50 000 Сом</p>
                                 <div className="flex gap-1">
-                                    <img src="public/40devs-work.svg" alt="work" />
+                                    <img src="/40devs-work.svg" alt="work" />
                                     <p className="text-[#C2C2C2]">Полная занятость</p>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@ const Header = () => {
 
                     <button className="mt-10 bg-[#4A6DFF] text-white p-3 px-6 rounded-full flex items-center justify-center gap-1">
                         Посмотреть все вакансии
-                        <img src="public/arrow_forward_ios.svg" alt="" />
+                        <img src="/arrow_forward_ios.svg" alt="" />
                     </button>
 
                 </div>
@@ -174,7 +174,7 @@ const Header = () => {
 
                 <div className="grid grid-cols-3 gap-4 w-[1300px] mx-auto">
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -182,7 +182,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -191,7 +191,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -200,7 +200,7 @@ const Header = () => {
                     </div>
 
                     <div className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -209,7 +209,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -218,7 +218,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -227,7 +227,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -236,7 +236,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -245,7 +245,7 @@ const Header = () => {
                     </div>
 
                     <div style={{ background: "rgba(249, 249, 249, 0.8)" }} className="flex flex-col rounded-3xl border-2 overflow-hidden w-[95%]">
-                        <img className="w-[16%]" src="public/fiol.svg" alt="fiol" />
+                        <img className="w-[16%]" src="/fiol.svg" alt="fiol" />
 
                         <div className="flex flex-col px-[15%] pb-8 pt-0">
                             <p>Искусство, развлечение</p>
@@ -261,8 +261,8 @@ const Header = () => {
             <section className="pb-32 pt-32">
                 <div className="flex gap-4 justify-center">
                     <div style={{ background: "rgba(54, 66, 173, 1)" }} className="border-2 relative rounded-2xl overflow-hidden h-72 w-[80vh]">
-                        <img className="absolute top-0 right-0 z-0 h-[75%] w-[70%]" src="public/blue.svg" alt="blue" />
-                        <img className="absolute top-0 right-0 z-0 h-[100%]" src="public/man.png" alt="man" />
+                        <img className="absolute top-0 right-0 z-0 h-[75%] w-[70%]" src="/blue.svg" alt="blue" />
+                        <img className="absolute top-0 right-0 z-0 h-[100%]" src="/man.png" alt="man" />
 
                         <div className="flex items-center pt-12 justify-center w-[45vh]">
                             <div className="flex flex-col justify-center w-[30vh] gap-4">
@@ -276,8 +276,8 @@ const Header = () => {
                     </div >
 
                     <div style={{ background: "rgba(84, 189, 149, 1)" }} className="border-2 relative rounded-2xl overflow-hidden h-72 w-[80vh]">
-                        <img className="absolute top-20 right-0 z-0 h-[75%] w-[70%]" src="public/white.png" alt="white" />
-                        <img className="absolute top-4 right-10 z-0 h-[95%]" src="public/man2.png" alt="man2" />
+                        <img className="absolute top-20 right-0 z-0 h-[75%] w-[70%]" src="/white.png" alt="white" />
+                        <img className="absolute top-4 right-10 z-0 h-[95%]" src="/man2.png" alt="man2" />
 
                         <div className="flex items-center pt-12 justify-center w-[45vh]">
                             <div className="flex flex-col justify-center w-[30vh] gap-4">
@@ -297,7 +297,7 @@ const Header = () => {
             <footer className="bg-[#F4F6FF]">
                 <div className="flex gap-5 pt-12 pb-12 px-16">
                     <div>
-                        <img src="public/logo.svg" alt="logo" />
+                        <img src="/logo.svg" alt="logo" />
                     </div>
                     <div className="flex flex-col">
                         <h3 className="font-semibold text-lg">Контакты</h3>
